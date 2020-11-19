@@ -1,0 +1,23 @@
+#template_working_folder: '/home/alex/Desktop/Fall_2020/Spike_Sorting/web_dev'
+probe_type:  'tetrode-mea-l'  #'Neuropixels-128' 'tetrode-mea-l'
+duration: '10'
+noise:
+  type: uncorrelated  # uncorrelated | distance-correlated
+  standard_deviation:  75 
+cell_categories: 
+  L5_BP_bAC217_1: 'I'
+  L5_BTC_bAC217_1: 'I'
+  L5_ChC_cACint209_1: 'I'
+  L5_DBC_bAC217_1: 'I'
+  L5_LBC_bAC217_1: 'I'
+  L5_MC_bAC217_1: 'I'
+  L5_NBC_bAC217_1: 'I'
+  L5_NGC_bNAC219_1: 'I'
+  L5_SBC_bNAC219_1: 'I'
+  L5_STPC_cADpyr232_1: 'E'
+  L5_TTPC1_cADpyr232_1: 'E'
+  L5_TTPC2_cADpyr232_1: 'E'
+  L5_UTPC_cADpyr232_1: 'E'
+cells:
+  c0: 
+

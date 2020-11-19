@@ -1,0 +1,14 @@
+{
+    "tridesclous_version": "1.6.0",
+    "datasource_type": "RawData",
+    "datasource_kargs": {
+        "filenames": [
+            "/home/alex/Desktop/Fall_2020/Spike_Sorting/presentation/tridesclous_output/raw_signals.raw"
+        ],
+        "dtype": "float32",
+        "sample_rate": 32000.0,
+        "total_channel": 4,
+        "offset": 0
+    },
+    "probe_filename": "probe.prb"
+}

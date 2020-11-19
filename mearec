@@ -1,0 +1,12 @@
+#!/home/alex/anaconda3/bin/python
+# EASY-INSTALL-ENTRY-SCRIPT: 'MEArec==1.4.4','console_scripts','mearec'
+__requires__ = 'MEArec==1.4.4'
+import re
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(
+        load_entry_point('MEArec==1.4.4', 'console_scripts', 'mearec')()
+    )
