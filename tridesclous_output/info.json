@@ -3,7 +3,7 @@
     "datasource_type": "RawData",
     "datasource_kargs": {
         "filenames": [
-            "/home/alex/Desktop/Fall_2020/Spike_Sorting/presentation/tridesclous_output/raw_signals.raw"
+            "/home/alex/Desktop/Fall_2020/Spike_Sorting/Spike_Sorting_GUI/tridesclous_output/raw_signals.raw"
         ],
         "dtype": "float32",
         "sample_rate": 32000.0,

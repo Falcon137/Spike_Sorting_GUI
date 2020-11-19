@@ -2,7 +2,7 @@
     "cluster_labels": {
         "dtype": "int64",
         "shape": [
-            2
+            3
         ],
         "annotations": {}
     },
@@ -46,14 +46,14 @@
             ]
         ],
         "shape": [
-            2
+            3
         ],
         "annotations": {}
     },
     "centers0": {
         "dtype": "float32",
         "shape": [
-            2,
+            3,
             160,
             4
         ],
@@ -62,28 +62,28 @@
     "distance_limit": {
         "dtype": "float32",
         "shape": [
-            2
+            3
         ],
         "annotations": {}
     },
     "extremum_channel": {
         "dtype": "int64",
         "shape": [
-            2
+            3
         ],
         "annotations": {}
     },
     "extremum_amplitude": {
         "dtype": "float32",
         "shape": [
-            2
+            3
         ],
         "annotations": {}
     },
     "sparse_mask_level1": {
         "dtype": "bool",
         "shape": [
-            2,
+            3,
             4
         ],
         "annotations": {}
@@ -91,7 +91,7 @@
     "sparse_mask_level2": {
         "dtype": "bool",
         "shape": [
-            2,
+            3,
             4
         ],
         "annotations": {}
@@ -99,7 +99,7 @@
     "sparse_mask_level3": {
         "dtype": "bool",
         "shape": [
-            2,
+            3,
             4
         ],
         "annotations": {}

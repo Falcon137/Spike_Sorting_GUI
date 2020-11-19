@@ -14,7 +14,7 @@
         "class": "spikeextractors.extractors.mearecextractors.mearecextractors.MEArecRecordingExtractor",
         "module": "spikeextractors",
         "kwargs": {
-            "file_path": "/home/alex/Desktop/Fall_2020/Spike_Sorting/presentation/new_recording.h5",
+            "file_path": "/home/alex/Desktop/Fall_2020/Spike_Sorting/Spike_Sorting_GUI/new_recording.h5",
             "locs_2d": true
         },
         "key_properties": {

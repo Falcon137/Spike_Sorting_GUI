@@ -146,7 +146,7 @@ def assess_no_neurons(true_spikes):
 #Generate Consolidated Templates 
 ##################################################
 
-base_directory = '/home/alex/Desktop/Fall_2020/Spike_Sorting/presentation/' #NEED TO CHANGE THIS FOR WEB DEPLOYMENT!
+base_directory = os.getcwd()+'/' #NEED TO CHANGE THIS FOR WEB DEPLOYMENT!
 parameters = yaml.full_load(open('client_parameters.yaml'))
 selected_probe = parameters['probe_type']
 template_creation_folder = 'template_creation/'

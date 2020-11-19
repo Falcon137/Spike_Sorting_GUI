@@ -1,0 +1,45 @@
+cell_models_folder: /home/alex/Desktop/Fall_2020/Spike_Sorting/Spike_Sorting_GUI/c0_template
+cut_out:
+- 2
+- 5
+delay: 10
+det_thresh: 30
+drift_steps: 30
+drift_xlim:
+- -10
+- 10
+drift_ylim:
+- -10
+- 10
+drift_zlim:
+- 30
+- 80
+drifting: false
+dt: 0.03125
+max_drift: 100
+min_amp: 30
+min_drift: 30
+n: 1
+ncontacts: 10
+offset: 0
+overhang: 30
+probe: tetrode-mea-l
+rot: norot
+seed: 2265
+sim_time: 1
+target_spikes:
+- 3
+- 50
+templates_folder: /home/alex/.config/mearec/templates
+weights:
+- 0.25
+- 1.75
+xlim: !!python/tuple
+- 5.0
+- 5.01
+ylim: !!python/tuple
+- 11.0
+- 11.01
+zlim: !!python/tuple
+- -22.0
+- -22.01

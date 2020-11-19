@@ -37,14 +37,14 @@
             ]
         ],
         "shape": [
-            1001
+            823
         ],
         "annotations": {}
     },
     "some_peaks_index": {
         "dtype": "int64",
         "shape": [
-            1001
+            823
         ],
         "annotations": {}
     },
@@ -88,7 +88,7 @@
     "some_features": {
         "dtype": "float32",
         "shape": [
-            1001,
+            823,
             8
         ],
         "annotations": {}
@@ -149,14 +149,14 @@
             ]
         ],
         "shape": [
-            3
+            4
         ],
         "annotations": {}
     },
     "centroids_median": {
         "dtype": "float32",
         "shape": [
-            3,
+            4,
             160,
             4
         ],
@@ -165,7 +165,7 @@
     "centroids_mad": {
         "dtype": "float32",
         "shape": [
-            3,
+            4,
             160,
             4
         ],
@@ -174,7 +174,7 @@
     "centroids_mean": {
         "dtype": "float32",
         "shape": [
-            3,
+            4,
             160,
             4
         ],
@@ -183,7 +183,7 @@
     "centroids_std": {
         "dtype": "float32",
         "shape": [
-            3,
+            4,
             160,
             4
         ],
@@ -192,7 +192,7 @@
     "centroids_sparse_mask": {
         "dtype": "bool",
         "shape": [
-            3,
+            4,
             4
         ],
         "annotations": {}

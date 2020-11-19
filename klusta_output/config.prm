@@ -1,9 +1,9 @@
 
-experiment_name = r"/home/alex/Desktop/Fall_2020/Spike_Sorting/presentation/klusta_output/recording"
-prb_file = r"/home/alex/Desktop/Fall_2020/Spike_Sorting/presentation/klusta_output/probe.prb"
+experiment_name = r"/home/alex/Desktop/Fall_2020/Spike_Sorting/Spike_Sorting_GUI/klusta_output/recording"
+prb_file = r"/home/alex/Desktop/Fall_2020/Spike_Sorting/Spike_Sorting_GUI/klusta_output/probe.prb"
 
 traces = dict(
-	raw_data_files=[r"/home/alex/Desktop/Fall_2020/Spike_Sorting/presentation/klusta_output/recording.dat"],
+	raw_data_files=[r"/home/alex/Desktop/Fall_2020/Spike_Sorting/Spike_Sorting_GUI/klusta_output/recording.dat"],
 	voltage_gain=1.,
 	sample_rate=32000.0,
 	n_channels=4,
